@@ -4,4 +4,6 @@ https://www.waveshare.com/wiki/RP2040-LCD-1.28
 
 Build and deploy:
 
-```tinygo flash -target=pico . ```
+```
+tinygo flash -target=pico .
+```
